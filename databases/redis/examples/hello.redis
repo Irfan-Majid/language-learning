@@ -1,0 +1,14 @@
+﻿# Redis CLI commands (run: redis-cli)
+
+SET greeting "Hello from Redis!"
+GET greeting
+
+SET user:1:name "Alice"
+GET user:1:name
+
+INCR page:views
+INCR page:views
+GET page:views
+
+EXPIRE session:abc 3600
+TTL session:abc

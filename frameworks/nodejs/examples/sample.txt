@@ -1,0 +1,2 @@
+Node.js lets you run JavaScript on your computer — not just in a browser.
+This file is read by examples/file-read.js

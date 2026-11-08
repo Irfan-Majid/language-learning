@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Build outputs
+dist/
+build/
+*.js.map
+target/
+bin/
+obj/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env secrets
+.env
+.env.local
+*.pem
+
+# Java
+*.class
+
+# .NET
+*.user
+*.suo
+
+# Flutter/Dart
+.dart_tool/
+.pub-cache/
+
+# Logs
+*.log

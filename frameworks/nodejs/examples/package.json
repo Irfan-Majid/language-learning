@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-examples",
+  "version": "1.0.0",
+  "description": "Node.js learning examples",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js",
+    "read": "node file-read.js",
+    "server": "node mini-server.js"
+  },
+  "keywords": ["nodejs", "learning"],
+  "license": "MIT"
+}
